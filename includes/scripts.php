@@ -4,8 +4,8 @@
   <script src="assets/js/jquery.magnific-popup.js"></script>
   <script src="assets/js/jquery.magnific-popup.min.js"></script>
   <script src="assets/js/owl.carousel.min.js"></script>
-  <!-- <script src="assets/js/aos.js"></script>
-  <script src="assets/js/wow.min.js"></script> -->
+  <script src="assets/js/aos.js"></script>
+  <script src="assets/js/wow.min.js"></script> 
 
     <script src="assets/vendor/splide/splide.min.js"></script>
     <script src="assets/vendor/splide/splide-extension-auto-scroll.min.js"></script>

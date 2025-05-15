@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-12 col-sm-12 col-12">
-                <div class="logo-section">
+                <div class="logo-section" data-aos="fade-up" data-aos-duration="1000">
                     <div class="logo-img">
                         <img src="assets/images/logo/ang3.png" alt="img" class="img-fluid">
                     </div>
@@ -11,14 +11,14 @@
                     </div>
                     <div class="logo-sec-cont">
                         <ul>
-                            <li><i class="fa-sharp fa-solid fa-phone-volume"></i><span>+91 90 9876 9876</span></li>
-                            <li><i class="fa-sharp fa-solid fa-envelope"></i><span>info@myangamalygmail.com</span></li>
+                            <li><i class="fa-sharp fa-solid fa-phone-volume"></i><a href="tel:+91 90 9876 9876"><span>+91 90 9876 9876</span></a></li>
+                            <li><i class="fa-sharp fa-solid fa-envelope"></i><a href="mailto:info@myangamalygmail.com"><span>info@myangamalygmail.com</span></a></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12 col-sm-6 col-12">
-                <div class="two-links">
+                <div class="two-links" data-aos="fade-up" data-aos-duration="1000">
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-12">
                             <div class="quick-links">
@@ -56,7 +56,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-12 col-sm-12 col-12">
-                <div class="news-letter">
+                <div class="news-letter" data-aos="fade-up" data-aos-duration="1000">
                     <div class="quick-heading-three">
                         <h6>news letter</h6>
                     </div>

@@ -7,8 +7,28 @@
     <?php include_once("includes/links.php"); ?>
     <title>Blog</title>
 </head>
+<?php include_once("includes/header.php") ?>
 
 <body>
+
+    <!-- Breadcrumb Section -->
+    <section class="breadcrumb-section faq-bg">
+        <div class="section-overlay">
+            <div class="container breadcrumb-container">
+                <div class="breadcrumb-area">
+                    <h1>Faq</h1>
+                </div>
+                <div class="breadcrumb">
+                    <a href="#">Home</a>
+                    <i class="fa fa-minus" aria-hidden="true"></i>
+                    <span class="current">faq</span>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Breadcrumb Section -->
+
+
     <section class="blog-section pad-all">
         <div class="container">
             <div class="row">
@@ -26,7 +46,7 @@
                                     <div class="blog-paragraph">
                                         <p>0 Comments</p>
                                         <h4>Challenge yourself with physical & mental health</h4>
-                                        <p>Ut id mauris erat. Pellentesque ultrices, tortor ut congue auctor, ex dui por ta augue, vel accumsan ante felis eu erat. Ut vestibulum ex...</p>
+                                        <p class="gn-text">Ut id mauris erat. Pellentesque ultrices, tortor ut congue auctor, ex dui por ta augue, vel accumsan ante felis eu erat. Ut vestibulum ex...</p>
                                     </div>
                                     <div class="blog-button">
                                         <a href="#" class="underline-button">Read More</a>
@@ -44,7 +64,7 @@
                                     <div class="blog-paragraph">
                                         <p>0 Comments</p>
                                         <h4>Challenge yourself with physical & mental health</h4>
-                                        <p>Ut id mauris erat. Pellentesque ultrices, tortor ut congue auctor, ex dui por ta augue, vel accumsan ante felis eu erat. Ut vestibulum ex...</p>
+                                        <p class="gn-text">Ut id mauris erat. Pellentesque ultrices, tortor ut congue auctor, ex dui por ta augue, vel accumsan ante felis eu erat. Ut vestibulum ex...</p>
                                     </div>
                                     <div class="blog-button">
                                         <a href="#" class="underline-button">Read More</a>
@@ -62,7 +82,7 @@
                                     <div class="blog-paragraph">
                                         <p>0 Comments</p>
                                         <h4>Challenge yourself with physical & mental health</h4>
-                                        <p>Ut id mauris erat. Pellentesque ultrices, tortor ut congue auctor, ex dui por ta augue, vel accumsan ante felis eu erat. Ut vestibulum ex...</p>
+                                        <p class="gn-text">Ut id mauris erat. Pellentesque ultrices, tortor ut congue auctor, ex dui por ta augue, vel accumsan ante felis eu erat. Ut vestibulum ex...</p>
                                     </div>
                                     <div class="blog-button">
                                         <a href="#" class="underline-button">Read More</a>
@@ -80,7 +100,7 @@
                                     <div class="blog-paragraph">
                                         <p>0 Comments</p>
                                         <h4>Challenge yourself with physical & mental health</h4>
-                                        <p>Ut id mauris erat. Pellentesque ultrices, tortor ut congue auctor, ex dui por ta augue, vel accumsan ante felis eu erat. Ut vestibulum ex...</p>
+                                        <p class="gn-text">Ut id mauris erat. Pellentesque ultrices, tortor ut congue auctor, ex dui por ta augue, vel accumsan ante felis eu erat. Ut vestibulum ex...</p>
                                     </div>
                                     <div class="blog-button">
                                         <a href="#" class="underline-button">Read More</a>
@@ -98,7 +118,7 @@
                                     <div class="blog-paragraph">
                                         <p>0 Comments</p>
                                         <h4>Challenge yourself with physical & mental health</h4>
-                                        <p>Ut id mauris erat. Pellentesque ultrices, tortor ut congue auctor, ex dui por ta augue, vel accumsan ante felis eu erat. Ut vestibulum ex...</p>
+                                        <p class="gn-text">Ut id mauris erat. Pellentesque ultrices, tortor ut congue auctor, ex dui por ta augue, vel accumsan ante felis eu erat. Ut vestibulum ex...</p>
                                     </div>
                                     <div class="blog-button">
                                         <a href="#" class="underline-button">Read More</a>
@@ -116,7 +136,7 @@
                                     <div class="blog-paragraph">
                                         <p>0 Comments</p>
                                         <h4>Challenge yourself with physical & mental health</h4>
-                                        <p>Ut id mauris erat. Pellentesque ultrices, tortor ut congue auctor, ex dui por ta augue, vel accumsan ante felis eu erat. Ut vestibulum ex...</p>
+                                        <p class="gn-text">Ut id mauris erat. Pellentesque ultrices, tortor ut congue auctor, ex dui por ta augue, vel accumsan ante felis eu erat. Ut vestibulum ex...</p>
                                     </div>
                                     <div class="blog-button">
                                         <a href="#" class="underline-button">Read More</a>
@@ -254,7 +274,6 @@
                 </div>
             </div>
         </div>
-
     </section>
 </body>
 

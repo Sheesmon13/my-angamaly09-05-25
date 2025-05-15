@@ -8,8 +8,28 @@
     <?php include_once("includes/links.php"); ?>
     <title>Blog2</title>
 </head>
+<?php include_once("includes/header.php") ?>
 
 <body>
+
+    <!-- Breadcrumb Section -->
+    <section class="breadcrumb-section faq-bg">
+        <div class="section-overlay">
+            <div class="container breadcrumb-container">
+                <div class="breadcrumb-area">
+                    <h1>Faq</h1>
+                </div>
+                <div class="breadcrumb">
+                    <a href="#">Home</a>
+                    <i class="fa fa-minus" aria-hidden="true"></i>
+                    <span class="current">faq</span>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Breadcrumb Section -->
+
+
     <section class="blog-section-two pad-all">
         <div class="container">
             <div class="row">
@@ -138,6 +158,7 @@
         </div>
 
     </section>
+
 </body>
 
 </html>

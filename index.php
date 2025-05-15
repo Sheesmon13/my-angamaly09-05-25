@@ -114,7 +114,7 @@
                 <div class="list-head">
                     <h2>Our latest listing</h2>
                     <h1>New listing in directory</h1>
-                    <p class="gn-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ea totam ab quisquam vitae, harum aliquid</p>
+                    <p class="gn-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ea totam ab quisquam vitae, harum aliquid</p>
                 </div>
             </div>
             <div class="row">
@@ -127,77 +127,43 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-lg-6 mb-3">
-                                        <div class="main-img">
-                                            <img src="assets/images/course/LEEA.webp" alt="">
-                                        </div>
-                                        <div class="title-image">
-                                            <h6>Full on cafe</h6>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 mb-3">
-                                        <div class="main-img">
-                                            <img src="assets/images/course/LEEA.webp" alt="">
-                                        </div>
-                                        <div class="title-image">
-                                            <h6>Full on cafe</h6>
+                                        <div class="pic-list" data-aos="fade-up" data-aos-duration="1000">
+                                            <div class="main-img">
+                                                <img src="assets/images/course/LEEA.webp" alt="">
+                                            </div>
+                                            <div class="title-image">
+                                                <h6>Full on cafe</h6>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 mb-3">
-                                        <div class="main-img">
-                                            <img src="assets/images/course/LEEA.webp" alt="">
-                                        </div>
-                                        <div class="title-image">
-                                            <h6>Full on cafe</h6>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 mb-3">
-                                        <div class="main-img">
-                                            <img src="assets/images/course/LEEA.webp" alt="">
-                                        </div>
-                                        <div class="title-image">
-                                            <h6>Full on cafe</h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <h6>Explore more <i class="fa fa-angle-down" aria-hidden="true"></i></h6>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mb-3">
-                            <div class="main-card">
-                                <div class="main-head">
-                                    <h4>Top restaurant</h4>
-                                </div>
-                                <div class="row">
-                                    <div class="col-lg-6 mb-3">
-                                        <div class="main-img">
-                                            <img src="assets/images/course/LEEA.webp" alt="">
-                                        </div>
-                                        <div class="title-image">
-                                            <h6>Full on cafe</h6>
+                                        <div class="pic-list" data-aos="fade-up" data-aos-duration="1000">
+                                            <div class="main-img">
+                                                <img src="assets/images/course/LEEA.webp" alt="">
+                                            </div>
+                                            <div class="title-image">
+                                                <h6>Full on cafe</h6>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 mb-3">
-                                        <div class="main-img">
-                                            <img src="assets/images/course/LEEA.webp" alt="">
-                                        </div>
-                                        <div class="title-image">
-                                            <h6>Full on cafe</h6>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 mb-3">
-                                        <div class="main-img">
-                                            <img src="assets/images/course/LEEA.webp" alt="">
-                                        </div>
-                                        <div class="title-image">
-                                            <h6>Full on cafe</h6>
+                                        <div class="pic-list" data-aos="fade-up" data-aos-duration="1000">
+                                            <div class="main-img">
+                                                <img src="assets/images/course/LEEA.webp" alt="">
+                                            </div>
+                                            <div class="title-image">
+                                                <h6>Full on cafe</h6>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 mb-3">
-                                        <div class="main-img">
-                                            <img src="assets/images/course/LEEA.webp" alt="">
-                                        </div>
-                                        <div class="title-image">
-                                            <h6>Full on cafe</h6>
+                                        <div class="pic-list" data-aos="fade-up" data-aos-duration="1000">
+                                            <div class="main-img">
+                                                <img src="assets/images/course/LEEA.webp" alt="">
+                                            </div>
+                                            <div class="title-image">
+                                                <h6>Full on cafe</h6>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -211,35 +177,93 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-lg-6 mb-3">
-                                        <div class="main-img">
-                                            <img src="assets/images/course/LEEA.webp" alt="">
-                                        </div>
-                                        <div class="title-image">
-                                            <h6>Full on cafe</h6>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 mb-3">
-                                        <div class="main-img">
-                                            <img src="assets/images/course/LEEA.webp" alt="">
-                                        </div>
-                                        <div class="title-image">
-                                            <h6>Full on cafe</h6>
+                                        <div class="pic-list" data-aos="fade-up" data-aos-duration="1000">
+                                            <div class="main-img">
+                                                <img src="assets/images/course/LEEA.webp" alt="">
+                                            </div>
+                                            <div class="title-image">
+                                                <h6>Full on cafe</h6>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 mb-3">
-                                        <div class="main-img">
-                                            <img src="assets/images/course/LEEA.webp" alt="">
-                                        </div>
-                                        <div class="title-image">
-                                            <h6>Full on cafe</h6>
+                                        <div class="pic-list" data-aos="fade-up" data-aos-duration="1000">
+                                            <div class="main-img">
+                                                <img src="assets/images/course/LEEA.webp" alt="">
+                                            </div>
+                                            <div class="title-image">
+                                                <h6>Full on cafe</h6>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 mb-3">
-                                        <div class="main-img">
-                                            <img src="assets/images/course/LEEA.webp" alt="">
+                                        <div class="pic-list" data-aos="fade-up" data-aos-duration="1000">
+                                            <div class="main-img">
+                                                <img src="assets/images/course/LEEA.webp" alt="">
+                                            </div>
+                                            <div class="title-image">
+                                                <h6>Full on cafe</h6>
+                                            </div>
                                         </div>
-                                        <div class="title-image">
-                                            <h6>Full on cafe</h6>
+                                    </div>
+                                    <div class="col-lg-6 mb-3">
+                                        <div class="pic-list" data-aos="fade-up" data-aos-duration="1000">
+                                            <div class="main-img">
+                                                <img src="assets/images/course/LEEA.webp" alt="">
+                                            </div>
+                                            <div class="title-image">
+                                                <h6>Full on cafe</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h6>Explore more <i class="fa fa-angle-down" aria-hidden="true"></i></h6>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 mb-3">
+                            <div class="main-card">
+                                <div class="main-head">
+                                    <h4>Top restaurant</h4>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-6 mb-3">
+                                        <div class="pic-list" data-aos="fade-up" data-aos-duration="1000">
+                                            <div class="main-img">
+                                                <img src="assets/images/course/LEEA.webp" alt="">
+                                            </div>
+                                            <div class="title-image">
+                                                <h6>Full on cafe</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 mb-3">
+                                        <div class="pic-list" data-aos="fade-up" data-aos-duration="1000">
+                                            <div class="main-img">
+                                                <img src="assets/images/course/LEEA.webp" alt="">
+                                            </div>
+                                            <div class="title-image">
+                                                <h6>Full on cafe</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 mb-3">
+                                        <div class="pic-list" data-aos="fade-up" data-aos-duration="1000">
+                                            <div class="main-img">
+                                                <img src="assets/images/course/LEEA.webp" alt="">
+                                            </div>
+                                            <div class="title-image">
+                                                <h6>Full on cafe</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 mb-3">
+                                        <div class="pic-list" data-aos="fade-up" data-aos-duration="1000">
+                                            <div class="main-img">
+                                                <img src="assets/images/course/LEEA.webp" alt="">
+                                            </div>
+                                            <div class="title-image">
+                                                <h6>Full on cafe</h6>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -264,14 +288,14 @@
             <div class="row">
                 <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="top-resturants-sec">
-                        <div class="resturants-content">
+                        <div class="resturants-content" data-aos="fade-right" data-aos-duration="1000">
                             <h2>Explore the taste of Angamaly</h2>
                             <h1>Top resturants in angamaly</h1>
                             <p class="gn-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, hic fuga nulla harum veritatis, explicabo possimus sapiente doloremque.</p>
                         </div>
                         <div class="row">
                             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                                <div class="customer-feedback">
+                                <div class="customer-feedback" data-aos="fade-right" data-aos-duration="1000">
                                     <div class="customer-img-sec">
                                         <div class="customer-img">
                                             <img src="assets/images/resturants/img1.jpg" alt="img" class="img-fluid">
@@ -447,13 +471,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-9 col-md-12 col-sm-12 col-12">
-                    <div class="studies-content">
+                    <div class="studies-content" data-aos="fade-up" data-aos-duration="1000">
                         <h2>Best for studies</h2>
                         <h1>Top institution in angamaly</h1>
                         <p class="gn-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, hic fuga nulla harum veritatis, explicabo possimus sapiente </p>
                     </div>
                     <div class="owl-carousel owl-theme institution-carousel">
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="inst-section">
                                 <div class="inst-image">
                                     <a href="#"> <img src="assets/images/institution/cafe.webp" alt="img" class="img-fluid">
@@ -482,7 +506,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="inst-section">
                                 <div class="inst-image">
                                     <a href="#"> <img src="assets/images/institution/cafe.webp" alt="img" class="img-fluid">
@@ -510,7 +534,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="inst-section">
                                 <div class="inst-image">
                                     <a href="#"> <img src="assets/images/institution/cafe.webp" alt="img" class="img-fluid">
@@ -538,7 +562,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="inst-section">
                                 <div class="inst-image">
                                     <a href="#"> <img src="assets/images/institution/cafe.webp" alt="img" class="img-fluid">
@@ -569,7 +593,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 col-12">
-                    <div class="institution-content">
+                    <div class="institution-content" data-aos="fade-up" data-aos-duration="1000">
                         <h2>Advertisement</h2>
                         <div class="owl-carousel owl-theme right-img-inst">
                             <div class="item">
@@ -609,21 +633,21 @@
     <section class="hospital-sec pad-all">
         <div class="container">
             <div class="row">
-                <div class="hospital-head">
+                <div class="hospital-head" data-aos="fade-up" data-aos-duration="1000">
                     <h2>best for care</h2>
                     <h1>top hospitals in angamaly</h1>
-                    <p class="gn-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ea totam ab quisquam vitae, harum aliquid</p>
+                    <p class="gn-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ea totam ab quisquam vitae, harum aliquid</p>
                 </div>
             </div>
             <div class="row">
                 <div class="owl-carousel owl-theme hospital-owl">
-                    <div class="item">
+                    <div class="item" data-aos="fade-up" data-aos-duration="1000">
                         <div class="hospital-card bg-white">
                             <!-- Image Section -->
                             <div class="hospital-image">
                                 <img src="assets/images/hospital/2222.webp" alt="LF Hospital Image">
                                 <span class="rating-badge">9.5</span>
-                                <div class="hospital-info">
+                                <div class="hospital-info" data-aos="fade-up">
                                     <h5>LF Hospital</h5>
                                     <p>Angamaly</p>
                                 </div>
@@ -639,13 +663,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="item">
+                    <div class="item" data-aos="fade-up" data-aos-duration="1000">
                         <div class="hospital-card bg-white">
                             <!-- Image Section -->
                             <div class="hospital-image">
                                 <img src="assets/images/hospital/2222.webp" alt="LF Hospital Image">
                                 <span class="rating-badge">9.5</span>
-                                <div class="hospital-info">
+                                <div class="hospital-info" data-aos="fade-up">
                                     <h5>LF Hospital</h5>
                                     <p>Angamaly</p>
                                 </div>
@@ -661,13 +685,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="item">
+                    <div class="item" data-aos="fade-up" data-aos-duration="1000">
                         <div class="hospital-card bg-white">
                             <!-- Image Section -->
                             <div class="hospital-image">
                                 <img src="assets/images/hospital/2222.webp" alt="LF Hospital Image">
                                 <span class="rating-badge">9.5</span>
-                                <div class="hospital-info">
+                                <div class="hospital-info" data-aos="fade-up">
                                     <h5>LF Hospital</h5>
                                     <p>Angamaly</p>
                                 </div>
@@ -683,13 +707,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="item">
+                    <div class="item" data-aos="fade-up" data-aos-duration="1000">
                         <div class="hospital-card bg-white">
                             <!-- Image Section -->
                             <div class="hospital-image">
                                 <img src="assets/images/hospital/2222.webp" alt="LF Hospital Image">
                                 <span class="rating-badge">9.5</span>
-                                <div class="hospital-info">
+                                <div class="hospital-info" data-aos="fade-up">
                                     <h5>LF Hospital</h5>
                                     <p>Angamaly</p>
                                 </div>
@@ -705,13 +729,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="item">
+                    <div class="item" data-aos="fade-up" data-aos-duration="1000">
                         <div class="hospital-card bg-white">
                             <!-- Image Section -->
                             <div class="hospital-image">
                                 <img src="assets/images/hospital/2222.webp" alt="LF Hospital Image">
                                 <span class="rating-badge">9.5</span>
-                                <div class="hospital-info">
+                                <div class="hospital-info" data-aos="fade-up">
                                     <h5>LF Hospital</h5>
                                     <p>Angamaly</p>
                                 </div>
@@ -738,13 +762,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div class="destination-heading">
+                    <div class="destination-heading" data-aos="fade-up" data-aos-duration="1000">
                         <h2>Best to visit</h2>
                         <h1>popular destination in angamaly</h1>
                         <p class="gn-text">Lorem ipsumit. Maioreatis, explicabo possimus sapiente eos nihil dolores iusto incidunt, numquam ea ad eaque dolorum dolor! Quisquam, doloremque.</p>
                     </div>
                     <div class="owl-carousel owl-theme desti-carousel">
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="desti-place-section">
                                 <div class="desti-img-place">
                                     <img src="assets/images/destination/img1.webp" alt="Malayattoor" />
@@ -758,7 +782,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="desti-place-section">
                                 <div class="desti-img-place">
                                     <img src="assets/images/destination/img1.webp" alt="Malayattoor" />
@@ -772,7 +796,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="desti-place-section">
                                 <div class="desti-img-place">
                                     <img src="assets/images/destination/img1.webp" alt="Malayattoor" />
@@ -786,7 +810,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="desti-place-section">
                                 <div class="desti-img-place">
                                     <img src="assets/images/destination/img1.webp" alt="Malayattoor" />
@@ -800,7 +824,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="desti-place-section">
                                 <div class="desti-img-place">
                                     <img src="assets/images/destination/img1.webp" alt="Malayattoor" />
@@ -814,7 +838,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="desti-place-section">
                                 <div class="desti-img-place">
                                     <img src="assets/images/destination/img1.webp" alt="Malayattoor" />
@@ -840,13 +864,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div class="companies-heading">
+                    <div class="companies-heading" data-aos="fade-up" data-aos-duration="1000">
                         <h2>find jobs in angamaly</h2>
                         <h1>featured companies actively hiring</h1>
                         <p class="gn-text">Lorem ipsumit. Maioreatis`, explicabo possimus sapiente eos nihil dolores iusto incidunt, numquam ea ad eaque dolorum dolor! Quisquam, doloremque.</p>
                     </div>
                     <div class="owl-carousel owl-theme company-carousel">
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="company-carousel-sec">
                                 <div class="company-logo">
                                     <img src="assets/images/company/img1.png" alt="img" class="img-fluid">
@@ -876,7 +900,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="company-carousel-sec">
                                 <div class="company-logo">
                                     <img src="assets/images/company/img1.png" alt="img" class="img-fluid">
@@ -906,7 +930,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="company-carousel-sec">
                                 <div class="company-logo">
                                     <img src="assets/images/company/img1.png" alt="img" class="img-fluid">
@@ -936,7 +960,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="company-carousel-sec">
                                 <div class="company-logo">
                                     <img src="assets/images/company/img1.png" alt="img" class="img-fluid">
@@ -978,13 +1002,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div class="best-electronics">
+                    <div class="best-electronics" data-aos="fade-up" data-aos-duration="1000">
                         <h2>best electronics</h2>
                         <h1>electronic item in the city</h1>
                         <p class="gn-text">Lorem ipsumit. Maioreatis, explicabo possimus sapiente eos nihil dolores iusto incidunt, numquam ea ad eaque dolorum dolor! Quisquam, doloremque.</p>
                     </div>
                     <div class="owl-carousel owl-theme electronics-carousel">
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="electronics-img">
                                 <img src="assets/images/electronics/img.webp" alt="img" class="img-fluid">
                             </div>
@@ -992,7 +1016,7 @@
                                 <h6>electronics shop</h6>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="electronics-img">
                                 <img src="assets/images/electronics/img.webp" alt="img" class="img-fluid">
                             </div>
@@ -1000,7 +1024,7 @@
                                 <h6>electronics shop</h6>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="electronics-img">
                                 <img src="assets/images/electronics/img.webp" alt="img" class="img-fluid">
                             </div>
@@ -1008,7 +1032,7 @@
                                 <h6>electronics shop</h6>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="electronics-img">
                                 <img src="assets/images/electronics/img.webp" alt="img" class="img-fluid">
                             </div>
@@ -1016,7 +1040,7 @@
                                 <h6>electronics shop</h6>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="electronics-img">
                                 <img src="assets/images/electronics/img.webp" alt="img" class="img-fluid">
                             </div>
@@ -1024,7 +1048,7 @@
                                 <h6>electronics shop</h6>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="electronics-img">
                                 <img src="assets/images/electronics/img.webp" alt="img" class="img-fluid">
                             </div>
@@ -1032,7 +1056,7 @@
                                 <h6>electronics shop</h6>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" data-aos="fade-up" data-aos-duration="1000">
                             <div class="electronics-img">
                                 <img src="assets/images/electronics/img.webp" alt="img" class="img-fluid">
                             </div>

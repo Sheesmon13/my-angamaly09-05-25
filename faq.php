@@ -9,6 +9,7 @@
     <title>MY-ANGAMALY</title>
     <?php include_once("includes/links.php"); ?>
 </head>
+<?php include_once("includes/header.php") ?>
 
 <body>
 

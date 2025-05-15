@@ -9,11 +9,12 @@
     --color-white:#fff;
     --color-ash: #7e8081;
     --color-bg: #f5f5f5;
-    --color-paragraph: #252628;
+    --color-paragraph: #666666;
     --color-maganta: #7B144B;
     --color-red2:#ff0000;
     --color-red3:#eb3951;
-    --color-yellow: #f5e905;
+    --color-yellow: #f5e905; 
+    --color-bg-2: #fdf6eb;
 }
 
 a:focus,
@@ -1121,7 +1122,7 @@ font-family: var(--font-para);
 .electronics .electronics-img {
   position: relative;
   width: 100%;
-  max-width: 200px; 
+  max-width: 160px; 
   margin: 0 auto; 
 }
 .electronics .electronics-img img {
@@ -1554,7 +1555,7 @@ font-family: var(--font-para);
 }
 .list-sec {
   position: relative;
-  margin: 60px 0px 60px 0px;
+  margin: 80px 0px 60px 0px;
 }
 .list-sec h6 {
   font-family: var(--font-heading);
@@ -1645,6 +1646,7 @@ font-family: var(--font-para);
   color: #80004d;
   padding: 0.3rem 0.6rem;
   border-radius: 10px;
+  font-family: var(--font-para);
   font-weight: normal;
   font-size: 12px;
 }
@@ -1656,9 +1658,9 @@ font-family: var(--font-para);
 }
 .hospital-info h5 {
   margin: 0;
-  font-weight: normal;
-  font-size: 14px;
-
+  font-weight: 600;
+  font-size: 18px;
+  color: var(--color-yellow);
 }
 .hospital-info p {
   margin: 0;
@@ -1682,7 +1684,7 @@ font-family: var(--font-para);
   border: 1px solid #000;
 }
 .hospital-sec .action-icons i {
-  font-size: 12px;
+  font-size: 10px;
   color: white;
   background-color: #80004d;
   padding: 0.5rem;
@@ -1695,7 +1697,6 @@ font-family: var(--font-para);
   left: -9px;
   background-color: var(--color-maganta);
   color: var(--color-white);
-  border: 1px solid #092056;
   width: 30px;
   height: 30px;
   font-size: 16px;
@@ -1728,6 +1729,7 @@ font-family: var(--font-para);
 /* blog */
 
 .blog-section{
+  background-color: var(--color-bg-2);
   margin: 0px 0px 60px 0px;
 }
 .blog-sec-one{
@@ -1771,10 +1773,10 @@ font-family: var(--font-para);
   text-align: justify;
 }
 .blog-paragraph h4{
-  font-size: 26px;
+  font-size: 22px;
   font-weight: bold;
   letter-spacing: 1.4;
-  max-width: 266px;
+  /* max-width: 266px; */
 }
 .blog-paragraph:hover h4{
   color: var(--color-red2);
@@ -1921,6 +1923,9 @@ font-family: var(--font-para);
 
 /* blog2 */
 
+.blog-section-two{
+   background-color: var(--color-bg-2);
+}
 .blog-section-two .blog-second-content{
   position: relative;
 }
@@ -2024,7 +2029,7 @@ font-family: var(--font-para);
   height:450px;
 }
 .faq-head{
-  text-align:-webkit-center;
+  text-align: start;
   margin-bottom: 50px;
 }
 .faq-head p{
@@ -2107,14 +2112,12 @@ font-family: var(--font-para);
   background: none; 
   color: #000;
   font-weight: bold;
-  padding: 30px 50px 0px 50px;
   text-align: left;
   transition: all 0.3s ease;
   box-shadow: none;
 }
 .accordion .faq-body-para {
   background-color: #fff; 
-  padding: 20px 50px 0px 50px;
   color: #555; 
 }
 .faq-contact-section{
@@ -2881,20 +2884,35 @@ font-family: var(--font-para);
 /* Main sliders */
 
 .time-slider .item {
-    position: absolute;
-  top: 0px;
-  right: 30PX;
   text-align: center;
     background: #fff; 
-    padding: 20px 40px;
+    padding: 20px 20px;
+    margin: 10px;
     border-radius: 10px;
     box-shadow: 
     0 0 0 1px rgba(255, 255, 255, 0.6),  /* inner white border */
     0 0 0 4px rgba(160, 160, 160, 0.2);  /* outer ash border */
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+     transition: transform 0.3s ease, box-shadow 0.3s ease; 
 }
 .time-slider .item:hover {
-    transform: translateY(-5px);
+     transform: translateY(-5px); 
     box-shadow: 0 6px 12px rgba(255, 255, 255, 0.6), 0 8px 25px rgba(160, 160, 160, 0.3);
+}
+.time-slider .item h6{
+  font-size: 20px;
+  font-weight: 600;
+}
+.main-block{
+  position: relative;
+  padding:10px 0px;
+
+  margin: -50px 0px;
+}
+.time-slider .icon-sec i{
+  background-color: #d0bb7b;
+  border-radius: 50%;
+  padding: 20px;
+  color: var(--color-maganta);
+  font-size: 25px;
 }
 

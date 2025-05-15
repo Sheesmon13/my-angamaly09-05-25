@@ -242,7 +242,7 @@
                 <!-- header left -->
                 <div class="header-bottom-left">
                     <div class="logo-container">
-                        <a href="index.html" class="d-inline-block"><img src="assets/images/logo/ang.jpg" alt="logo" class="logo"></a>
+                        <a href="index.php" class="d-inline-block"><img src="assets/images/logo/ang00.jpg" alt="logo" class="logo"></a>
                     </div>
 
                     <!-- search form -->
@@ -270,7 +270,7 @@
                 <div class="ul-header-nav-wrapper">
                     <div class="to-go-to-sidebar-in-mobile">
                         <nav class="ul-header-nav">
-                            <a href="index.html">Home</a>
+                            <a href="index.php">Home</a>
                             <a href="blog.php">Blog</a>
                             <a href="blog2.php">Blog Two</a>
                             <a href="faq.php">Faq</a>

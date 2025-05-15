@@ -1,6 +1,8 @@
 
 document.addEventListener("DOMContentLoaded", (event) => {
 
+      AOS.init();
+
      /*** Swiper Slider ***/
 
       var swiper = new Swiper('.home-swiper', {
@@ -84,6 +86,7 @@ $('.customer-carousel').owlCarousel({
     margin:10,
     nav:false,
     dots:false,
+    autoplay:true,
     navText : [
         '<i class="fa fa-angle-left" aria-hidden="true"></i>',
         '<i class="fa fa-angle-right" aria-hidden="true"></i>'
@@ -108,6 +111,7 @@ $('.institution-carousel').owlCarousel({
     margin:10,
     nav:true,
     dots:false,
+    autoplay:true,
     navText : [
         '<i class="fa fa-angle-left" aria-hidden="true"></i>',
         '<i class="fa fa-angle-right" aria-hidden="true"></i>'
@@ -220,6 +224,7 @@ $('.hospital-owl').owlCarousel({
     loop:true,
     margin:10,
     nav:true,
+    autoplay:true,
     dots:false,
     navText : [
         '<i class="fa fa-angle-left" aria-hidden="true"></i>',
